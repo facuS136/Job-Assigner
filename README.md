@@ -1,0 +1,1 @@
+A desktop application, developed in C# with Visual Studio, enables users to perform job assignments based on a list of employees, a list of tasks, and a list specifying which tasks each employee is capable of performing.
